@@ -62,7 +62,7 @@ module.exports = {
         },
 
         'slide-fwd': {
-          '0%': {
+          '1%': {
             '-webkit-transform': 'translateZ(0px)',
             transform: 'translateZ(0px)',
           },
